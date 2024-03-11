@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcsalou23&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="marcsalou23" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Albiol Jepeto](https://github.com/marcsalou23/jepeto-albiol)
+- 🔭 Actualmente estoy buscando trabajando y creand proyectos propios como [Albiol Jepeto](https://github.com/marcsalou23/jepeto-albiol)
 
 - 🌱 Actualmente estoy aprendiendo **Kotlin, Java**
 
