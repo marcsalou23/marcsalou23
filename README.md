@@ -1,4 +1,4 @@
-b<h1 align="center">¡Hola 👋, soy Marc Avila!</h1>
+<h1 align="center">¡Hola 👋, soy Marc Avila!</h1>
 <h3 align="center">Un apasionado desarrollador Fullstack de Salou, España</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcsalou23&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="marcsalou23" /> </p>
