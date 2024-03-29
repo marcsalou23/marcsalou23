@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy buscando trabajando y creando proyectos propios como [Albiol Jepeto](https://github.com/marcsalou23/jepeto-albiol)
 
-- 🌱 Actualmente estoy aprendiendo **Kotlin, Java**
+- 🌱 Actualmente estoy aprendiendo **Next.js**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
