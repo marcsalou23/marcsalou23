@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Marc Avila!</h1>
-<h3 align="center">A passionate Fullstack Developer from Salou, Spain</h3>
+<h3 align="center">A passionate Fullstack Developer and Data Analyst from Salou, Spain</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcsalou23&label=Profile%20Views&color=0e75b6&style=flat" alt="marcsalou23" /> </p>
 🔭 I'm currently on the hunt for job opportunities while working on my own projects like Albiol Jepeto.
 🌱 I'm learning Next.js these days.
